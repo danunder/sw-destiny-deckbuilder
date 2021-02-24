@@ -11,3 +11,8 @@ your deck can be exported in a json format that will work with tabletop simulato
 
 
 PROGRESS UPDATE 
+Feb 24 
+- wrote Python script to download card images
+- downloaded card images
+- set up AWS S3 bucket to host
+- successfully got hosted images loading on page  

@@ -1,13 +1,13 @@
 import React from 'react';
 import { Grid } from '@material-ui/core';
 import SWCard from './SWCard';
-import EaW from './EaW.json'
+import RM from './RM.json'
 
 export default function CardGrid() {
 
-  const getImgUrl = (code) => `https://swdestinydb.com/bundles/cards/en/${code[0]}${code[1]}/${code}.jpg`
+  const getImgUrl = (code) => `https://definitelynotswdestinycardimages.s3.us-east-2.amazonaws.com/${code}.jpg`
 
-  const cards = EaW.map(card => {
+  const cards = RM.map(card => {
     return (
       <SWCard
       id={card.code}
