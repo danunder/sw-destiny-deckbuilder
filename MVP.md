@@ -9,3 +9,5 @@ you can sort the cards by name, cost.
 you can add and remove cards to/from a deck
 your deck can be exported in a json format that will work with tabletop simulator
 
+
+PROGRESS UPDATE 
