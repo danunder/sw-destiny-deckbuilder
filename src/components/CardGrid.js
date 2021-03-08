@@ -18,10 +18,11 @@ export default function CardGrid() {
   })
   return (
     <Grid
-    container
-    direction="row"
-    justify="flex-start"
-    alignItems="flex-start"
+      container
+      spacing="1rem"
+      direction="row"
+      justify="flex-start"
+      alignItems="flex-start"
     >
       {cards}
     </Grid>
