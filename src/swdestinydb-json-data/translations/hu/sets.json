@@ -1,0 +1,66 @@
+[
+    {
+        "code": "AW",
+        "name": "Ébredések"
+    },
+    {
+        "code": "AoN",
+        "name": "Kényszerű szövetségek"
+    },
+    {
+        "code": "AtG",
+        "name": "A Galaxison át"
+    },
+    {
+        "code": "CM",
+        "name": "Titkos küldetések"
+    },
+    {
+        "code": "CONV",
+        "name": "Konvergencia"
+    },
+    {
+        "code": "EC",
+        "name": "Szüntelen konfliktus"
+    },
+    {
+        "code": "EaW",
+        "name": "A Birodalom fegyverben"
+    },
+    {
+        "code": "FA",
+        "name": "Faltering Allegiances"
+    },
+    {
+        "code": "LEG",
+        "name": "Örökség"
+    },
+    {
+        "code": "RIV",
+        "name": "Riválisok"
+    },
+    {
+        "code": "RM",
+        "name": "Redemption"
+    },
+    {
+        "code": "SoH",
+        "name": "A remény szikrája"
+    },
+    {
+        "code": "SoR",
+        "name": "A lázadás szelleme"
+    },
+    {
+        "code": "TPG",
+        "name": "Kétfős csomag"
+    },
+    {
+        "code": "TR",
+        "name": "Átalakulások"
+    },
+    {
+        "code": "WotF",
+        "name": "Az erő útja"
+    }
+]
